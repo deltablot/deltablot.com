@@ -1,0 +1,15 @@
+[submodule "themes/timer-hugo"]
+	path = themes/timer-hugo
+	url = https://github.com/themefisher/timer-hugo
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke
+[submodule "themes/navigator"]
+	path = themes/navigator
+	url = https://github.com/themefisher/navigator-hugo
+[submodule "themes/vex"]
+	path = themes/vex
+	url = https://github.com/themefisher/vex-hugo
+[submodule "themes/delta"]
+	path = themes/delta
+	url = git@github.com:deltablot/hugo-theme-delta.git
