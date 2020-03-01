@@ -1,6 +1,6 @@
 ---
 title: "Open Source"
-featured_image: '/img/matrix.jpg'
+featured_image: '/img/matrix-blue.jpg'
 description: "Our open source contributions"
 ---
 Using open source software is one thing, but contributing back to it is another. Here are some projects we contributed to.

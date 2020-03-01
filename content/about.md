@@ -1,6 +1,6 @@
 ---
 title: "About Deltablot"
-featured_image: '/img/mineral.jpg'
+featured_image: '/img/mineral-blue.jpg'
 description: ""
 ---
 
