@@ -61,4 +61,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   github = "https://github.com/elabftw"
   twitter = "https://twitter.com/elabftw"
-  recent_posts_number = 0
+  recent_posts_number = 2
