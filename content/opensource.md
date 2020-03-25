@@ -20,7 +20,7 @@ Using open source software is one thing, but contributing back to it is another.
 * {{< github "phpstan/phpstan" "Phpstan" >}}: static analysis tool
 * {{< github "eko/docker-symfony" "docker-symfony" >}}: run a Symfony app with Docker
 * {{< github "robiso/wondercms" "WonderCMS" >}}: tiny CMS
-* {{< github "ph7software/php7-social-dating-cms" "ph7Builder" >}}: social dating cms
+* {{< github "ph7software/ph7-social-dating-cms" "ph7Builder" >}}: social dating cms
 * {{< github "nunomaduro/collision" "Collision" >}}: error reporting tool for cli apps
 * {{< github "thephpleague/commonmark" "Commonmark" >}}: a lib to parse markdown
 * {{< github "usbac/wolff" "Wolff" >}}: small PHP framework
