@@ -7,7 +7,13 @@ description: "The free and open source lab notebook"
 
 ## What you get with the hosted solution
 
-The hosted solution is focusing on security and data confidentiality.
+### Peace of mind
+
+Don't worry about software updates, vulnerabilities, backups and all the problems that might come with the self hosted option. Let us deal with that and focus on your research.
+
+### PRO Support
+
+PRO support is included, so you become a premium user that can orient the development of new features.
 
 ### Security
 
@@ -24,4 +30,8 @@ Things that are configured include:
 
 ### Data confidentiality
 
-Your data is yours and yours only. There is no "sharing with third-party for marketing purposes" or other crap like this.
+Your data is yours and yours only. There is no "sharing with third-party for marketing purposes" or other nasty things like that here. As you can see, there is no Google tracking on this website either. No cookies are set either. eLabFTW is all about taking the control back of your data.
+
+### Let's chat
+
+[Contact us now](../contact) to discuss about your needs!
