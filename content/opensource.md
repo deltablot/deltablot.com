@@ -38,7 +38,9 @@ Using open source software is one thing, but contributing back to it is another.
 * {{< github "ossec/ossec-hids" "OSSEC" >}}: host-based intrusion detection system
 * {{< github "lirantal/is-website-vulnerable" "is-website-vulnerable" >}}: finds security vulnerabilities in website's frontend JS libraries
 * {{< github "knqyf263/trivy" "Trivy" >}}: vulnerability scanner for containers
+* {{< github "lightswitch05/php-version-audit" "PHP Version Audit" >}}: vulnerability scanner for PHP versions
 * {{< github "droope/droopescan" "Droopescan" >}}: web scanner for CMSs
+* {{< github "designsecurity/progpilot" "Progpilot" >}}: a static analysis tool for security
 * {{< github "trailofbits/twa" "Twa" >}}: web auditor
 * {{< github "immunit/drupwn" "Drupwn" >}}: Drupal enumeration & exploitation tool
 * {{< github "iinc0gnit0/blackphish" "BalckPhish" >}}: phishing made easy
@@ -69,5 +71,12 @@ Using open source software is one thing, but contributing back to it is another.
 * {{< github "qmk/qmk_firmware" "qmk Firmware" >}}: open source keyboard firmware
 * {{< github "aperezdc/ngx-fancyindex" "ngx-fancyindex" >}}: fancy indexes for nginx
 * {{< github "sarthology/projectsoundtracks" "ProjectSoundTracks" >}}: list of soundtracks for productivity
+* {{< github "cornify/cornify" "Cornify" >}}: unicorns for the masses
 
 
+# Projects funded by Deltablot
+
+* [Codeception](https://codeception.com/): PHP testing framework
+* [The OpenBSD Foundation](https://www.openbsdfoundation.org/): Funding for OpenBSD and related Projects
+* [Sébastien Crozet on Patreon](https://www.patreon.com/sebcrozet): creating Rust math libraries
+* [Gilles on Patreon](https://www.patreon.com/gilles): OpenSMTPD email software
