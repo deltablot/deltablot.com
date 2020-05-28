@@ -80,3 +80,4 @@ Using open source software is one thing, but contributing back to it is another.
 * [The OpenBSD Foundation](https://www.openbsdfoundation.org/): Funding for OpenBSD and related Projects
 * [Sébastien Crozet on Patreon](https://www.patreon.com/sebcrozet): creating Rust math libraries
 * [Gilles on Patreon](https://www.patreon.com/gilles): OpenSMTPD email software
+* [Soma FM](https://somafm.com/): radio stations that are great when programming
