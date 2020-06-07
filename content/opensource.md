@@ -74,10 +74,10 @@ Using open source software is one thing, but contributing back to it is another.
 * {{< github "cornify/cornify" "Cornify" >}}: unicorns for the masses
 
 
-# Projects funded by Deltablot
+# Projects that received donations from / are supported by Deltablot
 
 * [Codeception](https://codeception.com/): PHP testing framework
 * [The OpenBSD Foundation](https://www.openbsdfoundation.org/): Funding for OpenBSD and related Projects
 * [Sébastien Crozet on Patreon](https://www.patreon.com/sebcrozet): creating Rust math libraries
 * [Gilles on Patreon](https://www.patreon.com/gilles): OpenSMTPD email software
-* [Soma FM](https://somafm.com/): radio stations that are great when programming
+* [LiberaPay](https://liberapay.com/NicolasCARPi): a free and open source recurrent donation platform
