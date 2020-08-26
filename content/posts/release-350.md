@@ -7,7 +7,7 @@ tags:
   - "release"
 ---
 
-I'm very pleased to announce that eLabFTW version 3.5.0 is available for everyone!
+I'm very pleased to announce that [eLabFTW](https://www.elabftw.net) version 3.5.0 is available for everyone!
 
 This new version contains a lot of new things and a few fixes and improvements from the previous version. All users should upgrade!
 
