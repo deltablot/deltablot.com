@@ -81,3 +81,4 @@ Using open source software is one thing, but contributing back to it is another.
 * [Sébastien Crozet on Patreon](https://www.patreon.com/sebcrozet): creating Rust math libraries
 * [Gilles on Patreon](https://www.patreon.com/gilles): OpenSMTPD email software
 * [LiberaPay](https://liberapay.com/NicolasCARPi): a free and open source recurrent donation platform
+* [Wikipedia](https://www.wikipedia.org/): the free encyclopedia
