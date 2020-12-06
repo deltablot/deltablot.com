@@ -5,15 +5,23 @@ description: "The free and open source lab notebook"
 ---
 {{< pricing >}}
 
-## What you get with the hosted solution
+## What you get with PRO Support
+
+* Email support: if you have any issue you can be sure it will be addressed quickly.
+* Priority on feature requests: eLabFTW is used by a huge amount of labs, and they all want more from the software. Unfortunately, all the features cannot be implemented in a timely manner. With PRO Support you get in front of the line and the features you request will be treated in priority.
+* Training sessions: you can request training sessions for users so they can harness the full potential of the app and learn tips and tricks.
+* Open source funding: as you can imagine, when you distribute something for free, it's hard to earn money from it. By buying PRO Support you ensure the continued development of eLabFTW but also other software bricks as part of the money is redistributed to other developers.
+* Helping the planet: part of the funds also go to plant trees and carbon offset, because oxygen is important! ;)
+
+## What you get with PRO Hosting
+
+### PRO Support
+
+Everything described above is included.
 
 ### Peace of mind
 
 Don't worry about software updates, vulnerabilities, backups and all the problems that might come with the self hosted option. Let us deal with that and focus on your research.
-
-### PRO Support
-
-PRO support is included, so you become a premium user that can orient the development of new features.
 
 ### Security
 
@@ -30,7 +38,7 @@ Things that are configured include:
 
 ### Data confidentiality
 
-Your data is yours and yours only. There is no "sharing with third-party for marketing purposes" or other nasty things like that here. As you can see, there is no Google tracking on this website either. No cookies are set either. eLabFTW is all about taking the control back of your data.
+Your data is yours and yours only. There is no "sharing with third-party for marketing purposes" or other nasty things like that here. As you can see, there is no Google tracking on this website. No cookies are set either. eLabFTW is all about taking the control back of your data.
 
 ### Let's chat
 
