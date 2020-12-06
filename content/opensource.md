@@ -78,7 +78,9 @@ Using open source software is one thing, but contributing back to it is another.
 
 * [Codeception](https://codeception.com/): PHP testing framework
 * [The OpenBSD Foundation](https://www.openbsdfoundation.org/): Funding for OpenBSD and related Projects
-* [Sébastien Crozet on Patreon](https://www.patreon.com/sebcrozet): creating Rust math libraries
+* [dimforge](https://github.com/dimforge): creating Rust crates for numerical simulations
+* [Jos de Jong](https://github.com/josdejong): creator of jsoneditor used in eLabFTW
+* [Sebastian Bergmann](https://github.com/sebastianbergmann): creator of phpunit used in eLabFTW
 * [Gilles on Patreon](https://www.patreon.com/gilles): OpenSMTPD email software
 * [LiberaPay](https://liberapay.com/NicolasCARPi): a free and open source recurrent donation platform
 * [Wikipedia](https://www.wikipedia.org/): the free encyclopedia
