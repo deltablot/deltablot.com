@@ -20,4 +20,35 @@ You are free to refuse our request for your personal information, with the under
 
 Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
+
+#### Data collected:
+
+When visiting a Deltablot website, your IP address is logged. This is part of the normal process of web services. The logs are kept up to 6 months and are used to prevent bad actors from accessing and abusing resources.
+
+When you contact us by email, we may store your name, entity, phone number and email address. This is done to keep a trace of previous interactions and to be able to contact you if needed. This data is stored for an undefinite amount of time.
+
+The data is stored in Paris, France.
+
+The actual data you store through the PRO Hosting eLabFTW's service is deleted upon cancellation, along with the backups.
+
+#### Data sharing
+
+Deltablot does not share your data with anyone for marketing or analytics purpose.
+
+#### Right of access:
+
+You can request a copy of your personal data by email request. See the [contacting](../contact) page.
+
+#### Right of erasure:
+
+You can request the deletion of your data by [contacting us](../contact).
+
+#### Right to object:
+
+You can object to the processing of your data by [telling us](../contact).
+
+#### Security of personal data:
+
+Great care is taken to protect your data (for instance, very long and unique passwords are used). In the event of a breach, you will be informed as soon as possible.
+
 This policy is effective as of 1 June 2020.
