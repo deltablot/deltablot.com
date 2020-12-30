@@ -55,3 +55,7 @@ The General Data Protection Regulation (EU) 2016/679 (GDPR) is a regulation in E
 ## ISO 27001
 
 ISO/IEC 27001:2013 (also known as ISO27001) is the international standard that sets out the specification for an information security management system (ISMS). The Deltablot company is currently in the process of obtaining this certification.
+
+## PCI
+
+Users have the possibility to pay via Credit Card through Stripe. You can learn more about the securit at Strip [on this page](https://stripe.com/docs/security/stripe). Deltablot does not process nor store Credit Card information.
