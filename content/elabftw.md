@@ -30,11 +30,15 @@ The server hosting your data will host only your data. It is a CentOS Entreprise
 Things that are configured include:
 
 * A very strict SSH configuration
-* Monitoring of changes
-* Auditing of changes
+* Monitoring of changes and suspect actions
+* Auditing of changes and actions
 * Logging of activity
 * Tuned kernel settings
 * and more...
+
+### Data integrity
+
+The MySQL database is configured in High Availability mode with two nodes, with automatic healing and failover. If the primary node is no longer operational, the secondary node will take over. Your data is redundant and its integrity is therefore guaranteed.
 
 ### Data confidentiality
 
