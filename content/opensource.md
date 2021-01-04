@@ -79,6 +79,7 @@ Using open source software is one thing, but contributing back to it is another.
 * [Codeception](https://codeception.com/): PHP testing framework
 * [The OpenBSD Foundation](https://www.openbsdfoundation.org/): Funding for OpenBSD and related Projects
 * [dimforge](https://github.com/dimforge): creating Rust crates for numerical simulations
+* [Steve Bauman](https://github.com/sponsors/stevebauman): creator of the LdapRecord library used by eLabFTW
 * [Jos de Jong](https://github.com/josdejong): creator of jsoneditor used in eLabFTW
 * [Sebastian Bergmann](https://github.com/sebastianbergmann): creator of phpunit used in eLabFTW
 * [Gilles on Patreon](https://www.patreon.com/gilles): OpenSMTPD email software
