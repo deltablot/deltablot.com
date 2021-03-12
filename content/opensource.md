@@ -76,6 +76,7 @@ Using open source software is one thing, but contributing back to it is another.
 
 # Projects that received donations from / are supported by Deltablot
 
+* [K-9 Mail](https://k9mail.app/): Email client for Android
 * [Codeception](https://codeception.com/): PHP testing framework
 * [The OpenBSD Foundation](https://www.openbsdfoundation.org/): Funding for OpenBSD and related Projects
 * [dimforge](https://github.com/dimforge): creating Rust crates for numerical simulations
