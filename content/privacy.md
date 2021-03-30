@@ -23,13 +23,13 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 #### Data collected:
 
-When visiting a Deltablot website, your IP address is logged. This is part of the normal process of web services. The logs are kept up to 6 months and are used to prevent bad actors from accessing and abusing resources.
+When visiting a Deltablot website, your IP address is logged. This is part of the normal process of web services. The logs are kept up to 1 year and are mainly used to prevent bad actors from accessing and abusing resources, and also collect some metrics about traffic.
 
 When you contact us by email, we may store your name, entity, phone number and email address. This is done to keep a trace of previous interactions and to be able to contact you if needed. This data is stored for an undefinite amount of time.
 
-The data is stored in Paris, France.
+The data sent by email is stored in Paris, France. The logs are centralized in Amsterdam, Netherlands.
 
-The actual data you store through the PRO Hosting eLabFTW's service is deleted upon cancellation, along with the backups.
+The actual experimental data you store through the PRO Hosting eLabFTW's service is deleted upon cancellation, along with the backups.
 
 #### Data sharing
 
