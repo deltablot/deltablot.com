@@ -82,6 +82,7 @@ Using open source software is one thing, but contributing back to it is another.
 * [dimforge](https://github.com/dimforge): creating Rust crates for numerical simulations
 * [Steve Bauman](https://github.com/sponsors/stevebauman): creator of the LdapRecord library used by eLabFTW
 * [Jos de Jong](https://github.com/josdejong): creator of jsoneditor used in eLabFTW
+* [Dariusz Rumiński](https://github.com/sponsors/keradus): creator of PHP-CS-Fixer
 * [Sebastian Bergmann](https://github.com/sebastianbergmann): creator of phpunit used in eLabFTW
 * [Gilles on Patreon](https://www.patreon.com/gilles): OpenSMTPD email software
 * [LiberaPay](https://liberapay.com/NicolasCARPi): a free and open source recurrent donation platform
