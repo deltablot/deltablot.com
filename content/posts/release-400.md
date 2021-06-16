@@ -37,36 +37,7 @@ Update like usual: [see documentation](https://doc.elabftw.net/how-to-update.htm
 
 Go into your User Control Panel and change the Display mode.
 
-* Json metadata. Ok so this is a big one, basically now experiments, items and their templates have an extra column in the database of type "json". You can add whatever you want in that column. But the interesting part is if you add a key "extra_fields". This special key will be read by eLabFTW and its content will be displayed to the user as extra input fields. To use this feature you must display the JSON editor (it's a setting in the user control panel). You now have a new button on the right side: "Load metadata". Once clicked, the content of the json/metadata column will be loaded into the editor. Click "Tree" and select "Code" to access the raw code editor. Try pasting this json as example:
-
-~~~json
-{
-  "extra_fields": {
-    "pressure": {
-      "type": "number",
-      "unit": "Pa",
-      "required": true,
-      "value": "10"
-    },
-    "magnification": {
-      "type": "select",
-      "required": true,
-      "options": [
-        "10X",
-        "20X",
-        "20X High N/A"
-      ],
-      "value": "10X"
-    }
-  }
-}
-~~~
-
-Click the Save button and reload the page, you will see this appear:
-
-![metadata extra fields](/img/extra-fields.png)
-
-When the values are changed, the values in the json are directly updated.
+* Json metadata. Ok so this is a big one, basically now experiments, items and their templates have an extra column in the database of type "json". You can add whatever you want in that column. But the interesting part is if you add a key "extra_fields". This special key will be read by eLabFTW and its content will be displayed to the user as extra input fields. To use this feature, see the [documentation](https://doc.elabftw.net/metadata.html).
 
 * New user option to include attached PDFs into the generated PDF (a contribution by Marcel Bolten).
 * Ownership of database items can now be transferred (a contribution by Marcel Bolten).
